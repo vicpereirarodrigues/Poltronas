@@ -1,0 +1,3 @@
+{
+  "script": "<script>\n    const SUPABASE_URL = 'https://fmytzcxdiehidxkyzuzb.supabase.com';\n\n    const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZteXR6Y3hkaWVoaWR4a3l6dXpiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1NDM4ODYsImV4cCI6MjA5MDExOTg4Nn0.npoxw3rFLBHlEJIw_KgvbautDkjvz3Sm2CR5Id0Y3Uk';  \n    const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);\n</script>"
+}
